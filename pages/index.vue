@@ -1,6 +1,6 @@
 <template>
   <section class="container">
-      <logo/>
+      <pages/>
       <!--<h1 class="title">-->
         <!--NUXT-->
       <!--</h1>-->
