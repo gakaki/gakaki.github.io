@@ -276,7 +276,7 @@
             ]
           },
           {
-            company_name: '豆子网络',
+            company_name: '豆子网络（社交游戏）',
             link: 'https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUwOTI4NjMyNA==&scene=124#wechat_redirect',
             time_start: '18.03.26',
             time_end: '18.08.26',
@@ -294,7 +294,7 @@
             ]
           },
           {
-            company_name: '尖叫设计',
+            company_name: '尖叫设计（家居电商）',
             link: 'http://www.wowdsgn.com',
             time_start: '16.01.18',
             time_end: '18.02.09',
