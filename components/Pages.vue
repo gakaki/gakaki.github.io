@@ -190,7 +190,7 @@
         mail: '82506111@qq.com',
         wechat: 'gakaki',
         address: '上海普陀',
-        desc: '有丰富的开发经验 IOS(OC4年,Swift2年),PHP 4年,移动网页开发(H5,小程序)2年,Node.js后端3年,2年的JAVA后端(SSM),大数据.对微服务,微信开发以及前端模块化有较深入的理解,能够在项目中酌情选择编程语言更好的完成工作.能很好的使用技术驱动业务,并把控进度和风险.崇尚开放,自由分享的理念.拥有良好的技术视野和前瞻力.',
+        desc: '有丰富的前端及客户端经验，精通移动H5、小程序、以及IOS开发。后端语言熟悉Node和Golang。担任过小组技术负责人角色，有一定的技术管理经验。',
         skills: {
           'Swift': '15年始',
           'Go': '16年始',
@@ -273,8 +273,9 @@
               // `Tapd（一站式敏捷研发协作云平台）的 批量数据同步程序（ 爬虫程序含有并发限流限制速率和 自动重试的机制），编写 对应的api 给予公司内部的测试，安全部门， cicd等部门使用（有鉴权）`,
               // `移动端发版管理系统 内含包管理（迭代、热修复、h5离线包）流程打包和 android组建包管理（组件列表、依赖管理、依赖审核、依赖同步）Vue ElementUI`,
               // `技术栈为 NodeJS 13  MySQL  Mongodb Redis React Antd Vue ElementUI`
-            
-
+              `在趣头条OKR系统团队任后端主程。参考《Mesasure What Matters》，从零设计适合趣头条的OKR管理系统，系统包含目标管理，目标对齐，过程管理，项目管理，汇报管理五大模块。目前为趣头条3000+员工提供目标、过程管理等等服务。`
+              `参与项目：`
+              `移动端发版管理系统研发，开发了包管理（迭代、热修复、h5离线包），流程打包系统，以及 Android组件包管理系统（组件列表，依赖管理、依赖审核、依赖同步）`
             ]
           },
           {
@@ -285,14 +286,18 @@
             job_title: '后端负责人',
             job_desc: [
               // `后端部分`,
-              `产品1 "点亮足迹" “暑期去哪儿“ (后端2人,前端h5 2人,策划2人美术1人 每周迭代发布）共7人团队共同研发 主要工作为后端小程序研发.开发了事件系统,问答系统,新手引导等.负责服务器部署运维,持续集成,高并发处理.`,
-              `后端架构为Node10 egg.js框架 es6 async,数据库环境pika(redis持久缓存)+redis(红包秒杀等)+mongodb4.0rc(阿里云)`,
-              `使用Let's Encrypt部署通配符ssl,nginx部署http2和负载均衡,使用imagemin Guetzli和渐进式优化jpg图像(iOS),Android启用webp优化图片和webm优化视频并部署cdn`,
-              'gitlab-runner 配合小程序api 搭建持续集成,分为测试版开发板体验版',
-              `使用swagger配合 golang armyant 和 python locust 对服务器进行压力测试,使用clusmy,Fiddler,Charles,Facebook ATC对小程序进行弱网络模拟测试.`,
-              // `使用网易airtest编写自动化脚本测试常用流程,如新手流程,每周领取礼包`,
-              `产品2 豆子游戏盒子微信小程序 技术架构为后端Go语言Iris框架和TIDB数据库,前端MpVue编写了`,
-              `编写测试平台方便测试员进行特定条件下的测试,使用react+antd搭建`
+              // `产品1 "点亮足迹" “暑期去哪儿“ (后端2人,前端h5 2人,策划2人美术1人 每周迭代发布）共7人团队共同研发 主要工作为后端小程序研发.开发了事件系统,问答系统,新手引导等.负责服务器部署运维,持续集成,高并发处理.`,
+              // `后端架构为Node10 egg.js框架 es6 async,数据库环境pika(redis持久缓存)+redis(红包秒杀等)+mongodb4.0rc(阿里云)`,
+              // `使用Let's Encrypt部署通配符ssl,nginx部署http2和负载均衡,使用imagemin Guetzli和渐进式优化jpg图像(iOS),Android启用webp优化图片和webm优化视频并部署cdn`,
+              // 'gitlab-runner 配合小程序api 搭建持续集成,分为测试版开发板体验版',
+              // `使用swagger配合 golang armyant 和 python locust 对服务器进行压力测试,使用clusmy,Fiddler,Charles,Facebook ATC对小程序进行弱网络模拟测试.`,
+              // // `使用网易airtest编写自动化脚本测试常用流程,如新手流程,每周领取礼包`,
+              // `产品2 豆子游戏盒子微信小程序 技术架构为后端Go语言Iris框架和TIDB数据库,前端MpVue编写了`,
+              // `编写测试平台方便测试员进行特定条件下的测试,使用react+antd搭建`
+              `参与并研发了游戏 "点亮足迹"、"暑期去哪儿" 任职前端主程。`,
+              `搭建了游戏原型，研发到上线仅用了1.5个月并取得了100pv好成绩。`,
+              `启用了Cocos引擎重构游戏 ，流畅度再提升30%。`,
+              `引导前后端数据交互使用GraphQL，减少了沟通成本,加快了用户访问速度。`
             ]
           },
           {
@@ -303,29 +308,33 @@
             job_title: '技术负责人后端+前端+全栈开发',
             job_desc: [
               // `后端部分`,
-              `组建4人团队(我,后端,h5,Android)并成功在一个月内上线尖叫设计iOS版`,
-              `使用Node.js Async(Thinkjs框架)编写App后端 Api`,
-              '尖叫设计PC站(wowdsgn.com)从PHP重写为JAVA SSM架构Spring Boot MyBatis Druid',
-              '重构移动端api为Spring Boot(SSM) Api(移动端Api首页,活动商品,商品列表,商品详情,es商品搜索,后台管理的商品列表,详情,订单流程等)',
-              '阿里云部署和Docker化 Nginx Redis Node.js MySQL Mongodb,SSL化,Nexus jar库管理,Jenkins一键部署Gradle项目',
-              '迁移整站为https,图片迁移至七牛cdn转为Webp',
-              `商品搜索改造为Elasticsearch + IK分词方案`,
-              '遭遇恶意短信攻击, 并使用Redis和Openresty的LuaWaf模块防御。使用Spark对Nginx日志分析重组和排序,找出攻击ip并封锁',
-              // 'SSM架构升级重构Spring Cloud(拆分为商品,用户,订单,评价服务),Spring Cloud Gateway',
-
+              // `组建4人团队(我,后端,h5,Android)并成功在一个月内上线尖叫设计iOS版`,
+              // `使用Node.js Async(Thinkjs框架)编写App后端 Api`,
+              // '尖叫设计PC站(wowdsgn.com)从PHP重写为JAVA SSM架构Spring Boot MyBatis Druid',
+              // '重构移动端api为Spring Boot(SSM) Api(移动端Api首页,活动商品,商品列表,商品详情,es商品搜索,后台管理的商品列表,详情,订单流程等)',
+              // '阿里云部署和Docker化 Nginx Redis Node.js MySQL Mongodb,SSL化,Nexus jar库管理,Jenkins一键部署Gradle项目',
+              // '迁移整站为https,图片迁移至七牛cdn转为Webp',
+              // `商品搜索改造为Elasticsearch + IK分词方案`,
+              // '遭遇恶意短信攻击, 并使用Redis和Openresty的LuaWaf模块防御。使用Spark对Nginx日志分析重组和排序,找出攻击ip并封锁',
+          
+          // 'SSM架构升级重构Spring Cloud(拆分为商品,用户,订单,评价服务),Spring Cloud Gateway',
               // `iOS部分`,
               // 'Swift2编写了IOS App,TalkingData和友盟的数据埋点和Universal Link的部署,极光推送的集成.技术上用到的有SnapKit,Moya,Rxswift,Objectmapper,Kinfisher,SDWebImage,UMeng,Talkingdata,MJRefresh,DZNEmptyDataSet,EZSwiftExtensions,HidingNavigationBar,YYImage,Pingpp(支付),AVOSCloud,RongCloudIMKit.',
               // 'AppStore企业账号申请,审核,发布,fir.im持续集成。和产品,设计的工作协调',
               // '和同事经历Swift2到Swift4的变迁,主导了Swift3的大重构,组件化和二进制化架构的调整,加入RxSwift,部分页面用了Weex(活动页,我的界面部分).黑苹果提升打包速度',
 
               // `前端部分`,
-              'H5微信活动页面编写,Vue.js ElementUI 实现管理功能.与原声交互功能开发,跳转App等',
-              `用wepy编写微信小程序(尖叫设计)`,
-              `重构后台管理页面架构,采用了React+AntDesign方案. 与h5同事重构了PC端网站和h5移动版为React全家桶方案React+Router+Redux`,
+              // 'H5微信活动页面编写,Vue.js ElementUI 实现管理功能.与原声交互功能开发,跳转App等',
+              // `用wepy编写微信小程序(尖叫设计)`,
+              // `重构后台管理页面架构,采用了React+AntDesign方案. 与h5同事重构了PC端网站和h5移动版为React全家桶方案React+Router+Redux`,
               
               // `其他部分`,
               // '构建Spark实时流商品推荐模块（用于app内)技术方案为 Spark Streaming +Mlib+Kafka+TIDB。 用python NLTK ，结巴分词jieba 和 Keras + LSTM 和 Synonyms（近义词中文包）对商品进行舆情分析。前端使用Echarts + D3展现（桑吉图展示用户访问路径,词云展示用户画像属性，雷达图百分比展示等）。部署采用了Kubernetes + Docker + Harboar的容器方案',
               // `(爬虫题) APP内'海外购'商品数据同步.分别用了1 Python Scrapy+-redis+ip代理库 2 Golang crountine + channel + goquery 爬虫 3 Node.js Pupuetter`
+              `从0开始组建研发团队，并成功在一个月内上线尖叫设计App。`,
+              `前端方面： 牵头优化前后端技术架构，为前端引入了前端工程化，集合gitlab-ci实现持续集成，开发速度提升3倍。`,
+              `App方面： 引入IOS的组件化开发 ，提升编译发版速度从20分钟缩短为5分钟。`,
+              `后端方面： 牵头推进全司服务容器化，降低了一个运维/人成本，并经受住了大流量活动的考验。`,
             ]
           },
           // {
